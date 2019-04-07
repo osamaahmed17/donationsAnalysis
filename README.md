@@ -1,9 +1,6 @@
-# Student Donation
-<h2>Source code for the project demonstrating data visualization using d3.js, dc.js, node.js and mongodb<h2><br/>
-
-For the full post please visit: <br/>
-<h2>This source code represents data visualization using d3.js, dc.js, node.js and mongodb.  A dashboard has been established which shows the analysis of Student Donation with respect to grades and states. The data has been represented by different graphs with multiple options for the users to select from.</h2>
-
+# Student Donation Analysis
+This source code represents data visualization using d3.js, dc.js, node.js and mongodb.  A dashboard has been established which shows the analysis of Student Donation with respect to grades and states. The data has been represented by different graphs with multiple options for the users to select from.
+<br/>
 Required Components:<br/>
 D3.js<br/>
 Dc.js<br/>
